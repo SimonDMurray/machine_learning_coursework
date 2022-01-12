@@ -1,0 +1,149 @@
+﻿Phenotype,Sex_chromosomes,type_rs139052738,type_rs886040801 ,Expression BMX,Expression BRCA2,allele1_rs139052738,allele2_rs139052738,allele1_rs886040801 ,allel2_rs886040801 ,Binary_phenotype,Score_type_rs139052738,Score_type_rs886040801 
+unaffected,XX,Heterozygous,Homozygous_T,317,497,C,T,T,T,0,2,0
+unaffected,XY,Homozygous_T,Heterozygous,333,252,T,,T,G,0,0,2
+unaffected,XX,Heterozygous,Heterozygous,300,274.5,C,T,G,T,0,2,2
+unaffected,XY,Homozygous_T,Heterozygous,334,283,T,,G,T,0,0,2
+unaffected,XX,Homozygous_C,Homozygous_T,379,412,C,C,T,T,0,1,0
+unaffected,XX,Heterozygous,Heterozygous,391,237,C,T,G,T,0,2,2
+unaffected,XX,Heterozygous,Heterozygous,311,245.5,C,T,T,G,0,2,2
+unaffected,XX,Heterozygous,Heterozygous,355,276,C,T,T,G,0,2,2
+unaffected,XY,Homozygous_T,Heterozygous,346,252,T,,T,G,0,0,2
+unaffected,XY,Homozygous_C,Homozygous_T,320,431,C,,T,T,0,1,0
+unaffected,XX,Homozygous_C,Heterozygous,363,280,C,C,T,G,0,1,2
+familial cancer,XX,Homozygous_T,Homozygous_G,399,80,T,T,G,G,1,0,1
+unaffected,XX,Heterozygous,Heterozygous,365,235.5,T,C,G,T,0,2,2
+unaffected,XX,Heterozygous,Homozygous_T,376,435,T,C,T,T,0,2,0
+unaffected,XX,Homozygous_C,Heterozygous,315,260,C,C,G,T,0,1,2
+unaffected,XY,Homozygous_T,Heterozygous,372,251,T,,T,G,0,0,2
+unaffected,XX,Heterozygous,Homozygous_T,324,492,T,C,T,T,0,2,0
+familial cancer,XX,Heterozygous,Homozygous_G,331,35,C,T,G,G,1,2,1
+unaffected,XX,Homozygous_C,Heterozygous,302,269.5,C,C,T,G,0,1,2
+unaffected,XX,Homozygous_C,Heterozygous,353,269.5,C,C,G,T,0,1,2
+unaffected,XY,Homozygous_T,Heterozygous,307,210.5,T,,G,T,0,0,2
+unaffected,XY,Homozygous_C,Homozygous_T,398,438,C,,T,T,0,1,0
+unaffected,XY,Homozygous_T,Homozygous_T,388,470,T,,T,T,0,0,0
+unaffected,XX,Heterozygous,Homozygous_T,307,415,T,C,T,T,0,2,0
+unaffected,XY,Homozygous_T,Homozygous_T,351,481,T,,T,T,0,0,0
+unaffected,XX,Heterozygous,Homozygous_T,342,407,T,C,T,T,0,2,0
+unaffected,XY,Homozygous_T,Heterozygous,350,272,T,,G,T,0,0,2
+unaffected,XX,Homozygous_T,Heterozygous,334,264.5,T,T,T,G,0,0,2
+unaffected,XX,Homozygous_T,Homozygous_T,374,436,T,T,T,T,0,0,0
+familial cancer,XX,Heterozygous,Homozygous_G,343,66,T,C,G,G,1,2,1
+unaffected,XX,Heterozygous,Heterozygous,306,217,C,T,G,T,0,2,2
+familial cancer,XY,Homozygous_C,Homozygous_G,322,61,C,,G,G,1,1,1
+unaffected,XY,Homozygous_T,Homozygous_T,328,410,T,,T,T,0,0,0
+unaffected,XX,Homozygous_C,Heterozygous,391,243,C,C,T,G,0,1,2
+familial cancer,XX,Heterozygous,Homozygous_G,304,87,C,T,G,G,1,2,1
+familial cancer,XX,Heterozygous,Homozygous_G,376,41,T,C,G,G,1,2,1
+unaffected,XX,Heterozygous,Heterozygous,300,249,C,T,T,G,0,2,2
+unaffected,XX,Homozygous_C,Homozygous_G,352,92,C,C,G,G,0,1,1
+unaffected,XY,Homozygous_T,Heterozygous,315,284,T,,T,G,0,0,2
+unaffected,XX,Homozygous_T,Heterozygous,378,253,T,T,T,G,0,0,2
+unaffected,XX,Heterozygous,Homozygous_T,323,426,C,T,T,T,0,2,0
+unaffected,XX,Homozygous_C,Heterozygous,387,232.5,C,C,G,T,0,1,2
+unaffected,XX,Homozygous_T,Heterozygous,304,261.5,T,T,G,T,0,0,2
+unaffected,XY,Homozygous_T,Heterozygous,326,252.5,T,,G,T,0,0,2
+unaffected,XY,Homozygous_C,Heterozygous,381,262.5,C,,G,T,0,1,2
+unaffected,XY,Homozygous_T,Homozygous_T,385,482,T,,T,T,0,0,0
+unaffected,XX,Homozygous_T,Heterozygous,324,245.5,T,T,G,T,0,0,2
+unaffected,XY,Homozygous_C,Heterozygous,353,285.5,C,,G,T,0,1,2
+unaffected,XX,Homozygous_C,Homozygous_T,333,435,C,C,T,T,0,1,0
+unaffected,XY,Homozygous_C,Heterozygous,345,284,C,,T,G,0,1,2
+unaffected,XX,Homozygous_T,Heterozygous,328,276,T,T,G,T,0,0,2
+unaffected,XX,Heterozygous,Heterozygous,391,257,T,C,T,G,0,2,2
+familial cancer,XX,Heterozygous,Homozygous_G,339,98,C,T,G,G,1,2,1
+familial cancer,XX,Homozygous_T,Homozygous_G,347,77,T,T,G,G,1,0,1
+familial cancer,XY,Homozygous_T,Homozygous_G,305,93,T,,G,G,1,0,1
+unaffected,XY,Homozygous_C,Heterozygous,395,240,C,,G,T,0,1,2
+familial cancer,XX,Heterozygous,Homozygous_G,399,55,C,T,G,G,1,2,1
+unaffected,XX,Homozygous_C,Heterozygous,354,262.5,C,C,T,G,0,1,2
+familial cancer,XX,Heterozygous,Homozygous_G,386,89,T,C,G,G,1,2,1
+familial cancer,XX,Heterozygous,Homozygous_G,352,85,C,T,G,G,1,2,1
+unaffected,XX,Homozygous_T,Homozygous_T,345,499,T,T,T,T,0,0,0
+unaffected,XY,Homozygous_T,Homozygous_T,372,488,T,,T,T,0,0,0
+unaffected,XX,Homozygous_C,Heterozygous,348,227.5,C,C,T,G,0,1,2
+unaffected,XX,Heterozygous,Heterozygous,317,247.5,T,C,T,G,0,2,2
+unaffected,XX,Heterozygous,Heterozygous,360,289.5,C,T,T,G,0,2,2
+familial cancer,XX,Homozygous_C,Homozygous_G,327,54,C,C,G,G,1,1,1
+unaffected,XY,Homozygous_T,Homozygous_T,388,492,T,,T,T,0,0,0
+familial cancer,XY,Homozygous_T,Homozygous_G,316,72,T,,G,G,1,0,1
+unaffected,XY,Homozygous_T,Heterozygous,328,228.5,T,,G,T,0,0,2
+unaffected,XX,Homozygous_T,Heterozygous,391,244,T,T,G,T,0,0,2
+unaffected,XY,Homozygous_T,Homozygous_T,311,420,T,,T,T,0,0,0
+unaffected,XX,Homozygous_T,Heterozygous,339,293.5,T,T,G,T,0,0,2
+familial cancer,XY,Homozygous_T,Homozygous_G,355,21,T,,G,G,1,0,1
+unaffected,XX,Homozygous_C,Heterozygous,366,256.5,C,C,T,G,0,1,2
+familial cancer,XX,Homozygous_T,Homozygous_G,355,74,T,T,G,G,1,0,1
+unaffected,XX,Homozygous_C,Homozygous_T,323,405,C,C,T,T,0,1,0
+unaffected,XX,Heterozygous,Homozygous_T,339,496,C,T,T,T,0,2,0
+unaffected,XY,Homozygous_T,Heterozygous,360,276.5,T,,T,G,0,0,2
+unaffected,XY,Homozygous_T,Homozygous_T,313,413,T,,T,T,0,0,0
+familial cancer,XX,Homozygous_C,Homozygous_G,385,54,C,C,G,G,1,1,1
+familial cancer,XX,Heterozygous,Homozygous_G,352,27,T,C,G,G,1,2,1
+unaffected,XX,Homozygous_T,Heterozygous,384,264.5,T,T,T,G,0,0,2
+unaffected,XX,Heterozygous,Heterozygous,387,239,C,T,T,G,0,2,2
+familial cancer,XX,Heterozygous,Homozygous_G,391,41,C,T,G,G,1,2,1
+familial cancer,XY,Homozygous_T,Homozygous_G,305,80,T,,G,G,1,0,1
+unaffected,XX,Homozygous_T,Homozygous_T,399,453,T,T,T,T,0,0,0
+unaffected,XX,Heterozygous,Heterozygous,314,268.5,C,T,G,T,0,2,2
+familial cancer,XX,Homozygous_T,Homozygous_G,369,79,T,T,G,G,1,0,1
+unaffected,XX,Heterozygous,Homozygous_T,379,452,T,C,T,T,0,2,0
+familial cancer,XY,Homozygous_T,Homozygous_G,396,39,T,,G,G,1,0,1
+unaffected,XY,Homozygous_T,Heterozygous,316,267,T,,G,T,0,0,2
+familial cancer,XY,Homozygous_T,Homozygous_G,370,80,T,,G,G,1,0,1
+unaffected,XX,Homozygous_T,Heterozygous,310,290,T,T,G,T,0,0,2
+familial cancer,XY,Homozygous_T,Homozygous_G,317,92,T,,G,G,1,0,1
+unaffected,XX,Homozygous_C,Heterozygous,316,228.5,C,C,G,T,0,1,2
+unaffected,XY,Homozygous_T,Homozygous_T,353,490,T,,T,T,0,0,0
+unaffected,XX,Homozygous_T,Heterozygous,328,255.5,T,T,G,T,0,0,2
+unaffected,XX,Homozygous_C,Homozygous_T,360,500,C,C,T,T,0,1,0
+unaffected,XX,Heterozygous,Homozygous_T,379,494,C,T,T,T,0,2,0
+unaffected,XX,Homozygous_T,Heterozygous,307,246,T,T,G,T,0,0,2
+familial cancer,XY,Homozygous_T,Homozygous_G,381,59,T,,G,G,1,0,1
+unaffected,XY,Homozygous_T,Heterozygous,379,243.5,T,,G,T,0,0,2
+unaffected,XX,Heterozygous,Heterozygous,344,250,T,C,T,G,0,2,2
+unaffected,XX,Homozygous_T,Heterozygous,390,233.5,T,T,G,T,0,0,2
+unaffected,XX,Homozygous_T,Heterozygous,329,239.5,T,T,T,G,0,0,2
+unaffected,XX,Homozygous_T,Heterozygous,365,253.5,T,T,G,T,0,0,2
+familial cancer,XX,Heterozygous,Homozygous_G,307,88,C,T,G,G,1,2,1
+unaffected,XY,Homozygous_T,Heterozygous,316,231,T,,T,G,0,0,2
+unaffected,XX,Heterozygous,Heterozygous,371,226.5,C,T,G,T,0,2,2
+unaffected,XX,Heterozygous,Heterozygous,350,257.5,C,T,G,T,0,1,2
+unaffected,XX,Homozygous_C,Heterozygous,381,235,C,C,T,G,0,1,2
+unaffected,XX,Homozygous_T,Homozygous_T,346,440,T,T,T,T,0,0,0
+familial cancer,XY,Homozygous_T,Heterozygous,355,276.5,T,,G,T,1,0,2
+unaffected,XY,Homozygous_C,Heterozygous,366,278,C,,T,G,0,1,2
+unaffected,XY,Homozygous_C,Heterozygous,349,258,C,,T,G,0,1,2
+unaffected,XX,Heterozygous,Homozygous_T,374,484,C,T,T,T,0,2,0
+unaffected,XY,Homozygous_T,Homozygous_T,378,476,T,,T,T,0,0,0
+familial cancer,XX,Homozygous_C,Homozygous_G,393,95,C,C,G,G,1,1,1
+unaffected,XY,Homozygous_T,Heterozygous,305,274.5,T,,T,G,0,0,2
+unaffected,XX,Homozygous_T,Heterozygous,339,266.5,T,T,T,G,0,0,2
+unaffected,XX,Heterozygous,Heterozygous,339,248,C,T,T,G,0,2,2
+unaffected,XX,Homozygous_C,Homozygous_T,385,495,C,C,T,T,0,1,0
+familial cancer,XX,Heterozygous,Homozygous_G,301,38,T,C,G,G,1,2,1
+unaffected,XY,Homozygous_T,Homozygous_T,366,446,T,,T,T,0,0,0
+unaffected,XY,Homozygous_C,Heterozygous,361,293.5,C,,T,G,0,1,2
+unaffected,XX,Heterozygous,Homozygous_T,372,450,C,T,T,T,0,2,0
+unaffected,XX,Heterozygous,Heterozygous,360,244.5,C,T,T,G,0,2,2
+unaffected,XX,Heterozygous,Homozygous_T,310,403,C,T,T,T,0,2,0
+familial cancer,XX,Heterozygous,Homozygous_G,324,91,T,C,G,G,1,2,1
+unaffected,XX,Homozygous_T,Homozygous_T,318,470,T,T,T,T,0,0,0
+unaffected,XY,Homozygous_C,Heterozygous,325,263,C,,T,G,0,1,2
+unaffected,XX,Homozygous_C,Heterozygous,308,227,C,C,G,T,0,1,2
+unaffected,XX,Heterozygous,Heterozygous,367,260,T,C,G,T,0,2,2
+familial cancer,XX,Homozygous_T,Homozygous_G,362,43,T,T,G,G,1,0,1
+unaffected,XX,Heterozygous,Homozygous_T,378,407,C,T,T,T,0,2,0
+unaffected,XY,Homozygous_C,Homozygous_T,380,430,C,,T,T,0,1,0
+unaffected,XY,Homozygous_C,Heterozygous,388,233,C,,G,T,0,1,2
+unaffected,XY,Homozygous_C,Homozygous_G,372,24,C,,G,G,0,1,1
+unaffected,XX,Heterozygous,Homozygous_T,331,445,C,T,T,T,0,2,0
+unaffected,XY,Homozygous_C,Heterozygous,345,273.5,C,,T,G,0,1,2
+unaffected,XX,Homozygous_C,Heterozygous,351,269.5,C,C,G,T,0,1,2
+unaffected,XY,Homozygous_T,Heterozygous,373,238,T,,T,G,0,0,2
+unaffected,XX,Heterozygous,Homozygous_T,378,484,C,T,T,T,0,2,0
+unaffected,XX,Heterozygous,Heterozygous,331,213,T,C,G,T,0,2,2
+familial cancer,XX,Heterozygous,Homozygous_G,361,75,T,C,G,G,1,2,1
+unaffected,XX,Heterozygous,Homozygous_T,313,475,C,T,T,T,0,2,0
+familial cancer,XY,Homozygous_T,Homozygous_G,339,59,T,,G,G,1,0,1
+unaffected,XY,Homozygous_T,Heterozygous,334,265,T,,G,T,0,0,2

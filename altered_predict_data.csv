@@ -1,0 +1,9 @@
+﻿Sex_chromosomes,type_rs139052738,type_rs886040801 ,Expression BMX,Expression BRCA2,allele1_rs139052738,allele2_rs139052738,allele1_rs886040801 ,allel2_rs886040801 ,Score_type_rs139052738,Score_type_rs886040801 
+XX,Homozygous_C,Heterozygous,327,264,C,C,G,T,1,2
+XX,Homozygous_T,Heterozygous,345,192,T,T,T,G,0,2
+XX,Heterozygous,Homozygous_G,365,23,T,C,G,G,2,1
+XX,Homozygous_T,Homozygous_T,376,435,T,T,T,T,0,0
+XX,Heterozygous,Heterozygous,335,270,C,T,G,T,2,2
+XY,Homozygous_T,Heterozygous,372,251,T,,T,G,0,2
+XX,Heterozygous,Homozygous_G,324,42,T,C,G,G,2,1
+XX,Heterozygous,Homozygous_G,331,35,C,T,G,G,2,1
